@@ -1,0 +1,2370 @@
+[
+  {
+    "meta": {
+      "id": "test",
+      "uuid": "0ffbb449-36e6-406f-b330-9f424847e20d",
+      "src": "coll_thes",
+      "section": "alpha",
+      "target": {
+        "tuuid": "0e5228e3-40df-4dce-92e0-36748eb1c24c",
+        "tsrc": "collegiate"
+      },
+      "stems": [
+        "test",
+        "tests"
+      ],
+      "syns": [
+        [
+          "essay",
+          "experiment",
+          "experimentation",
+          "trial"
+        ],
+        [
+          "exam",
+          "examination",
+          "quiz"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "a procedure or operation carried out to resolve an uncertainty "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "will need to run some {it}tests{/it} on the blood sample to rule out blood poisoning"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "essay"
+                    },
+                    {
+                      "wd": "experiment"
+                    },
+                    {
+                      "wd": "experimentation"
+                    },
+                    {
+                      "wd": "trial"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "trial and error"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "dry run"
+                    },
+                    {
+                      "wd": "shakedown"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "exercise"
+                    },
+                    {
+                      "wd": "practice",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "practise"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "rehearsal"
+                    },
+                    {
+                      "wd": "tryout"
+                    },
+                    {
+                      "wd": "workout"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "crucible"
+                    },
+                    {
+                      "wd": "ordeal"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "attempt"
+                    },
+                    {
+                      "wd": "effort"
+                    },
+                    {
+                      "wd": "try"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "a set of questions or problems designed to assess knowledge, skills, or intelligence "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "applicants for the cashier's position must first take a simple math {it}test{/it}"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "exam"
+                    },
+                    {
+                      "wd": "examination"
+                    },
+                    {
+                      "wd": "quiz"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "aptitude test"
+                    },
+                    {
+                      "wd": "intelligence test"
+                    },
+                    {
+                      "wd": "placement test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "pretest"
+                    },
+                    {
+                      "wd": "retest"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "board(s)"
+                    },
+                    {
+                      "wd": "midterm"
+                    },
+                    {
+                      "wd": "midyear"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "catechism"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "audition"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "final"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "checkup"
+                    },
+                    {
+                      "wd": "inspection"
+                    },
+                    {
+                      "wd": "review"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inquiry"
+                    },
+                    {
+                      "wd": "interrogation"
+                    },
+                    {
+                      "wd": "investigation"
+                    },
+                    {
+                      "wd": "probe"
+                    },
+                    {
+                      "wd": "research"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a procedure or operation carried out to resolve an uncertainty",
+      "a set of questions or problems designed to assess knowledge, skills, or intelligence"
+    ]
+  },
+  {
+    "meta": {
+      "id": "test",
+      "uuid": "e7117ea2-9b0a-41e2-8580-f3804400dfe3",
+      "src": "coll_thes",
+      "section": "alpha",
+      "target": {
+        "tuuid": "056f7781-4de6-42ff-994a-97971375fd44",
+        "tsrc": "collegiate"
+      },
+      "stems": [
+        "test",
+        "test the water",
+        "test the waters",
+        "testabilities",
+        "testability",
+        "testable",
+        "tested",
+        "testing",
+        "tests"
+      ],
+      "syns": [
+        [
+          "sample",
+          "try (out)"
+        ],
+        [
+          "strain",
+          "stretch",
+          "tax",
+          "try"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test"
+    },
+    "fl": "verb",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "to put (something) to a test "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "please {it}test{/it} this sample for the presence of lead"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "sample"
+                    },
+                    {
+                      "wd": "try (out)"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "check (out)"
+                    },
+                    {
+                      "wd": "examine"
+                    },
+                    {
+                      "wd": "experiment (with)"
+                    },
+                    {
+                      "wd": "explore"
+                    },
+                    {
+                      "wd": "feel (out)"
+                    },
+                    {
+                      "wd": "investigate"
+                    },
+                    {
+                      "wd": "research"
+                    },
+                    {
+                      "wd": "study"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "resample"
+                    },
+                    {
+                      "wd": "retest"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "to subject (a personal quality or faculty) to often excessive stress "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "all of these unnecessary questions are {it}testing{/it} my patience"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "strain"
+                    },
+                    {
+                      "wd": "stretch"
+                    },
+                    {
+                      "wd": "tax"
+                    },
+                    {
+                      "wd": "try"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "demand"
+                    },
+                    {
+                      "wd": "exact"
+                    },
+                    {
+                      "wd": "importune"
+                    },
+                    {
+                      "wd": "press"
+                    },
+                    {
+                      "wd": "pressure"
+                    },
+                    {
+                      "wd": "push"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "aggravate"
+                    },
+                    {
+                      "wd": "agitate"
+                    },
+                    {
+                      "wd": "annoy"
+                    },
+                    {
+                      "wd": "bother"
+                    },
+                    {
+                      "wd": "exasperate"
+                    },
+                    {
+                      "wd": "gall"
+                    },
+                    {
+                      "wd": "get (to)"
+                    },
+                    {
+                      "wd": "gnaw (at)"
+                    },
+                    {
+                      "wd": "grate"
+                    },
+                    {
+                      "wd": "harass"
+                    },
+                    {
+                      "wd": "harry"
+                    },
+                    {
+                      "wd": "hassle"
+                    },
+                    {
+                      "wd": "irk"
+                    },
+                    {
+                      "wd": "irritate"
+                    },
+                    {
+                      "wd": "nettle"
+                    },
+                    {
+                      "wd": "pain"
+                    },
+                    {
+                      "wd": "peeve"
+                    },
+                    {
+                      "wd": "pester"
+                    },
+                    {
+                      "wd": "rile"
+                    },
+                    {
+                      "wd": "spite"
+                    },
+                    {
+                      "wd": "vex"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "to put (something) to a test",
+      "to subject (a personal quality or faculty) to often excessive stress"
+    ]
+  },
+  {
+    "meta": {
+      "id": "test pilot",
+      "uuid": "3c9f6342-3d06-453d-bc0d-33da87666673",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "test pilot"
+      ],
+      "syns": [
+        [
+          "ace",
+          "barnstormer",
+          "bush pilot",
+          "copilot",
+          "flyboy",
+          "airman",
+          "aviator",
+          "birdman",
+          "flier",
+          "pilot",
+          "captain",
+          "skipper"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test pilot"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}ace{/it}, {it}bush pilot{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "ace"
+                    },
+                    {
+                      "wd": "barnstormer"
+                    },
+                    {
+                      "wd": "bush pilot"
+                    },
+                    {
+                      "wd": "copilot"
+                    },
+                    {
+                      "wd": "flyboy"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "airman"
+                    },
+                    {
+                      "wd": "aviator"
+                    },
+                    {
+                      "wd": "birdman"
+                    },
+                    {
+                      "wd": "flier",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "flyer"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "pilot"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "captain"
+                    },
+                    {
+                      "wd": "skipper"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in ace, bush pilot"
+    ]
+  },
+  {
+    "meta": {
+      "id": "test-drives",
+      "uuid": "b504bf4d-78fa-480c-9e93-4e3f338da01e",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "test-drives"
+      ],
+      "syns": [
+        [
+          "checkouts",
+          "trial runs",
+          "observations",
+          "surveillances",
+          "watches",
+          "rechecks",
+          "reinspections",
+          "resurveys",
+          "once-overs",
+          "perusals",
+          "inquisitions",
+          "interrogations",
+          "explorations",
+          "investigations",
+          "probes",
+          "researches",
+          "studies",
+          "analyses",
+          "assays",
+          "close-ups",
+          "deconstructions",
+          "dissections",
+          "audits",
+          "checks",
+          "checkups",
+          "examinations",
+          "goings-over",
+          "inspections",
+          "look-sees",
+          "reviews",
+          "scans",
+          "scrutinies",
+          "surveys",
+          "views"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test-drives"
+    },
+    "fl": "noun",
+    "sls": [
+      "plural of {d_link|test-drive|test-drive}"
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}checkouts{/it}, {it}trial runs{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "checkouts"
+                    },
+                    {
+                      "wd": "trial runs"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "observations"
+                    },
+                    {
+                      "wd": "surveillances"
+                    },
+                    {
+                      "wd": "watches"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "rechecks"
+                    },
+                    {
+                      "wd": "reinspections"
+                    },
+                    {
+                      "wd": "resurveys"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "once-overs"
+                    },
+                    {
+                      "wd": "perusals"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inquisitions"
+                    },
+                    {
+                      "wd": "interrogations"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "explorations"
+                    },
+                    {
+                      "wd": "investigations"
+                    },
+                    {
+                      "wd": "probes"
+                    },
+                    {
+                      "wd": "researches"
+                    },
+                    {
+                      "wd": "studies"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "analyses"
+                    },
+                    {
+                      "wd": "assays"
+                    },
+                    {
+                      "wd": "close-ups"
+                    },
+                    {
+                      "wd": "deconstructions"
+                    },
+                    {
+                      "wd": "dissections"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "audits"
+                    },
+                    {
+                      "wd": "checks"
+                    },
+                    {
+                      "wd": "checkups"
+                    },
+                    {
+                      "wd": "examinations"
+                    },
+                    {
+                      "wd": "goings-over"
+                    },
+                    {
+                      "wd": "inspections"
+                    },
+                    {
+                      "wd": "look-sees"
+                    },
+                    {
+                      "wd": "reviews"
+                    },
+                    {
+                      "wd": "scans"
+                    },
+                    {
+                      "wd": "scrutinies"
+                    },
+                    {
+                      "wd": "surveys"
+                    },
+                    {
+                      "wd": "views"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in checkouts, trial runs"
+    ]
+  },
+  {
+    "meta": {
+      "id": "test-drive",
+      "uuid": "93f7dbc7-01a0-4a6c-919e-20b77d305a17",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "test-drive"
+      ],
+      "syns": [
+        [
+          "checkout",
+          "trial run",
+          "observation",
+          "surveillance",
+          "watch",
+          "recheck",
+          "reinspection",
+          "resurvey",
+          "once-over",
+          "perusal",
+          "inquisition",
+          "interrogation",
+          "exploration",
+          "investigation",
+          "probe",
+          "research",
+          "study",
+          "analysis",
+          "assay",
+          "close-up",
+          "deconstruction",
+          "dissection",
+          "audit",
+          "check",
+          "checkup",
+          "examination",
+          "going-over",
+          "inspection",
+          "look-see",
+          "review",
+          "scan",
+          "scrutiny",
+          "survey",
+          "view"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test-drive"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}checkout{/it}, {it}trial run{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "checkout"
+                    },
+                    {
+                      "wd": "trial run"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "observation"
+                    },
+                    {
+                      "wd": "surveillance"
+                    },
+                    {
+                      "wd": "watch"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "recheck"
+                    },
+                    {
+                      "wd": "reinspection"
+                    },
+                    {
+                      "wd": "resurvey"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "once-over"
+                    },
+                    {
+                      "wd": "perusal"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inquisition"
+                    },
+                    {
+                      "wd": "interrogation"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "exploration"
+                    },
+                    {
+                      "wd": "investigation"
+                    },
+                    {
+                      "wd": "probe"
+                    },
+                    {
+                      "wd": "research"
+                    },
+                    {
+                      "wd": "study"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "analysis"
+                    },
+                    {
+                      "wd": "assay"
+                    },
+                    {
+                      "wd": "close-up"
+                    },
+                    {
+                      "wd": "deconstruction"
+                    },
+                    {
+                      "wd": "dissection"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "audit"
+                    },
+                    {
+                      "wd": "check"
+                    },
+                    {
+                      "wd": "checkup"
+                    },
+                    {
+                      "wd": "examination"
+                    },
+                    {
+                      "wd": "going-over"
+                    },
+                    {
+                      "wd": "inspection"
+                    },
+                    {
+                      "wd": "look-see"
+                    },
+                    {
+                      "wd": "review"
+                    },
+                    {
+                      "wd": "scan"
+                    },
+                    {
+                      "wd": "scrutiny"
+                    },
+                    {
+                      "wd": "survey"
+                    },
+                    {
+                      "wd": "view"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in checkout, trial run"
+    ]
+  },
+  {
+    "meta": {
+      "id": "test pilots",
+      "uuid": "89bc83a1-e270-4974-9445-065f8e837453",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "test pilots"
+      ],
+      "syns": [
+        [
+          "aces",
+          "barnstormers",
+          "bush pilots",
+          "copilots",
+          "flyboys",
+          "airmen",
+          "aviators",
+          "birdmen",
+          "fliers",
+          "pilots",
+          "captains",
+          "skippers"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "test pilots"
+    },
+    "fl": "noun",
+    "sls": [
+      "plural of {d_link|test pilot|test pilot}"
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}aces{/it}, {it}bush pilots{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "aces"
+                    },
+                    {
+                      "wd": "barnstormers"
+                    },
+                    {
+                      "wd": "bush pilots"
+                    },
+                    {
+                      "wd": "copilots"
+                    },
+                    {
+                      "wd": "flyboys"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "airmen"
+                    },
+                    {
+                      "wd": "aviators"
+                    },
+                    {
+                      "wd": "birdmen"
+                    },
+                    {
+                      "wd": "fliers",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "flyers"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "pilots"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "captains"
+                    },
+                    {
+                      "wd": "skippers"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in aces, bush pilots"
+    ]
+  },
+  {
+    "meta": {
+      "id": "intelligence test",
+      "uuid": "1dde7546-f4d3-4881-91b0-42717c91f4e5",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "intelligence test"
+      ],
+      "syns": [
+        [
+          "aptitude test",
+          "placement test",
+          "exam",
+          "examination",
+          "quiz",
+          "test",
+          "pretest",
+          "retest",
+          "board(s)",
+          "midterm",
+          "midyear",
+          "catechism",
+          "audition",
+          "final",
+          "checkup",
+          "inspection",
+          "review",
+          "inquiry",
+          "interrogation",
+          "investigation",
+          "probe",
+          "research"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "intelligence test"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}aptitude test{/it}, {it}placement test{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "aptitude test"
+                    },
+                    {
+                      "wd": "placement test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "exam"
+                    },
+                    {
+                      "wd": "examination"
+                    },
+                    {
+                      "wd": "quiz"
+                    },
+                    {
+                      "wd": "test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "pretest"
+                    },
+                    {
+                      "wd": "retest"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "board(s)"
+                    },
+                    {
+                      "wd": "midterm"
+                    },
+                    {
+                      "wd": "midyear"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "catechism"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "audition"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "final"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "checkup"
+                    },
+                    {
+                      "wd": "inspection"
+                    },
+                    {
+                      "wd": "review"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inquiry"
+                    },
+                    {
+                      "wd": "interrogation"
+                    },
+                    {
+                      "wd": "investigation"
+                    },
+                    {
+                      "wd": "probe"
+                    },
+                    {
+                      "wd": "research"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in aptitude test, placement test"
+    ]
+  },
+  {
+    "meta": {
+      "id": "high-test",
+      "uuid": "37900fd5-a22e-4d06-935b-1dfedc6d3c87",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "high-test"
+      ],
+      "syns": [
+        [
+          "better",
+          "exceptional",
+          "fancy",
+          "high-grade",
+          "premium",
+          "select",
+          "special",
+          "superfine",
+          "acceptable",
+          "adequate",
+          "all right",
+          "decent",
+          "good",
+          "OK",
+          "passable",
+          "satisfactory",
+          "tolerable",
+          "classical",
+          "standard",
+          "traditional",
+          "A1",
+          "A-OK",
+          "awesome",
+          "bang-up",
+          "banner",
+          "beautiful",
+          "blue-chip",
+          "blue-ribbon",
+          "boffo",
+          "bonny",
+          "boss",
+          "brag",
+          "brave",
+          "bully",
+          "bumper",
+          "capital",
+          "choice",
+          "classic",
+          "cool",
+          "corking",
+          "crackerjack",
+          "cracking",
+          "dandy",
+          "divine",
+          "dope",
+          "down",
+          "dynamite",
+          "excellent",
+          "fab",
+          "fabulous",
+          "famous",
+          "fantabulous",
+          "fantastic",
+          "fine",
+          "first-class",
+          "first-rate",
+          "first-string",
+          "five-star",
+          "four-star",
+          "frontline",
+          "gangbusters",
+          "gilt-edged",
+          "gone",
+          "grand",
+          "great",
+          "groovy",
+          "heavenly",
+          "high-class",
+          "hot",
+          "hype",
+          "immense",
+          "jim-dandy",
+          "keen",
+          "lovely",
+          "marvelous",
+          "mean",
+          "neat",
+          "nifty",
+          "noble",
+          "number one",
+          "numero uno",
+          "out-of-sight",
+          "par excellence",
+          "peachy",
+          "peachy keen",
+          "phat",
+          "prime",
+          "primo",
+          "prize",
+          "prizewinning",
+          "quality",
+          "radical",
+          "righteous",
+          "sensational",
+          "slick",
+          "splendid",
+          "stellar",
+          "sterling",
+          "superb",
+          "superior",
+          "superlative",
+          "supernal",
+          "swell",
+          "terrific",
+          "tip-top",
+          "top",
+          "topflight",
+          "top-notch",
+          "top-of-the-line",
+          "topping",
+          "top-shelf",
+          "unsurpassed",
+          "wizard",
+          "wonderful"
+        ],
+        [
+          "high-octane",
+          "straight",
+          "undiluted",
+          "unmixed",
+          "enriched",
+          "fortified",
+          "heavy",
+          "big",
+          "concentrated",
+          "full",
+          "full-bodied",
+          "heady",
+          "lusty",
+          "muscular",
+          "plush",
+          "potent",
+          "rich",
+          "robust",
+          "strong"
+        ]
+      ],
+      "ants": [
+        [
+          "atrocious",
+          "awful",
+          "execrable",
+          "lousy",
+          "pathetic",
+          "poor",
+          "rotten",
+          "terrible",
+          "vile",
+          "wretched",
+          "bad",
+          "inferior",
+          "low-grade",
+          "substandard",
+          "unsatisfactory",
+          "mediocre",
+          "middling",
+          "second-class",
+          "second-rate"
+        ],
+        [
+          "delicate",
+          "light",
+          "mild",
+          "thin",
+          "thinned",
+          "weak",
+          "weakened",
+          "dilute",
+          "diluted",
+          "watered-down",
+          "watery"
+        ]
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "high-test"
+    },
+    "fl": "adjective",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}high-grade{/it}, {it}premium{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "better"
+                    },
+                    {
+                      "wd": "exceptional"
+                    },
+                    {
+                      "wd": "fancy"
+                    },
+                    {
+                      "wd": "high-grade"
+                    },
+                    {
+                      "wd": "premium"
+                    },
+                    {
+                      "wd": "select"
+                    },
+                    {
+                      "wd": "special"
+                    },
+                    {
+                      "wd": "superfine"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "acceptable"
+                    },
+                    {
+                      "wd": "adequate"
+                    },
+                    {
+                      "wd": "all right"
+                    },
+                    {
+                      "wd": "decent"
+                    },
+                    {
+                      "wd": "good"
+                    },
+                    {
+                      "wd": "OK",
+                      "wvrs": [
+                        {
+                          "wvl": "or",
+                          "wva": "okay"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "passable"
+                    },
+                    {
+                      "wd": "satisfactory"
+                    },
+                    {
+                      "wd": "tolerable"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "classical"
+                    },
+                    {
+                      "wd": "standard"
+                    },
+                    {
+                      "wd": "traditional"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "A1"
+                    },
+                    {
+                      "wd": "A-OK"
+                    },
+                    {
+                      "wd": "awesome"
+                    },
+                    {
+                      "wd": "bang-up"
+                    },
+                    {
+                      "wd": "banner"
+                    },
+                    {
+                      "wd": "beautiful"
+                    },
+                    {
+                      "wd": "blue-chip"
+                    },
+                    {
+                      "wd": "blue-ribbon"
+                    },
+                    {
+                      "wd": "boffo"
+                    },
+                    {
+                      "wd": "bonny",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "bonnie"
+                        }
+                      ],
+                      "wsls": [
+                        "chiefly British"
+                      ]
+                    },
+                    {
+                      "wd": "boss",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "brag"
+                    },
+                    {
+                      "wd": "brave"
+                    },
+                    {
+                      "wd": "bully"
+                    },
+                    {
+                      "wd": "bumper"
+                    },
+                    {
+                      "wd": "capital"
+                    },
+                    {
+                      "wd": "choice"
+                    },
+                    {
+                      "wd": "classic"
+                    },
+                    {
+                      "wd": "cool",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "corking"
+                    },
+                    {
+                      "wd": "crackerjack"
+                    },
+                    {
+                      "wd": "cracking"
+                    },
+                    {
+                      "wd": "dandy"
+                    },
+                    {
+                      "wd": "divine"
+                    },
+                    {
+                      "wd": "dope",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "down",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "dynamite"
+                    },
+                    {
+                      "wd": "excellent"
+                    },
+                    {
+                      "wd": "fab"
+                    },
+                    {
+                      "wd": "fabulous"
+                    },
+                    {
+                      "wd": "famous"
+                    },
+                    {
+                      "wd": "fantabulous",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "fantastic"
+                    },
+                    {
+                      "wd": "fine"
+                    },
+                    {
+                      "wd": "first-class"
+                    },
+                    {
+                      "wd": "first-rate"
+                    },
+                    {
+                      "wd": "first-string"
+                    },
+                    {
+                      "wd": "five-star"
+                    },
+                    {
+                      "wd": "four-star"
+                    },
+                    {
+                      "wd": "frontline"
+                    },
+                    {
+                      "wd": "gangbusters",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "gangbuster"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "gilt-edged",
+                      "wvrs": [
+                        {
+                          "wvl": "or",
+                          "wva": "gilt-edge"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "gone",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "grand"
+                    },
+                    {
+                      "wd": "great"
+                    },
+                    {
+                      "wd": "groovy"
+                    },
+                    {
+                      "wd": "heavenly"
+                    },
+                    {
+                      "wd": "high-class"
+                    },
+                    {
+                      "wd": "hot"
+                    },
+                    {
+                      "wd": "hype",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "immense"
+                    },
+                    {
+                      "wd": "jim-dandy"
+                    },
+                    {
+                      "wd": "keen"
+                    },
+                    {
+                      "wd": "lovely"
+                    },
+                    {
+                      "wd": "marvelous",
+                      "wvrs": [
+                        {
+                          "wvl": "or",
+                          "wva": "marvellous"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "mean"
+                    },
+                    {
+                      "wd": "neat"
+                    },
+                    {
+                      "wd": "nifty"
+                    },
+                    {
+                      "wd": "noble"
+                    },
+                    {
+                      "wd": "number one",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "No. 1"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "numero uno"
+                    },
+                    {
+                      "wd": "out-of-sight",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "par excellence"
+                    },
+                    {
+                      "wd": "peachy"
+                    },
+                    {
+                      "wd": "peachy keen"
+                    },
+                    {
+                      "wd": "phat",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "prime"
+                    },
+                    {
+                      "wd": "primo",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "prize"
+                    },
+                    {
+                      "wd": "prizewinning"
+                    },
+                    {
+                      "wd": "quality"
+                    },
+                    {
+                      "wd": "radical",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "righteous",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "sensational"
+                    },
+                    {
+                      "wd": "slick"
+                    },
+                    {
+                      "wd": "splendid"
+                    },
+                    {
+                      "wd": "stellar"
+                    },
+                    {
+                      "wd": "sterling"
+                    },
+                    {
+                      "wd": "superb"
+                    },
+                    {
+                      "wd": "superior"
+                    },
+                    {
+                      "wd": "superlative"
+                    },
+                    {
+                      "wd": "supernal"
+                    },
+                    {
+                      "wd": "swell"
+                    },
+                    {
+                      "wd": "terrific"
+                    },
+                    {
+                      "wd": "tip-top"
+                    },
+                    {
+                      "wd": "top"
+                    },
+                    {
+                      "wd": "topflight"
+                    },
+                    {
+                      "wd": "top-notch"
+                    },
+                    {
+                      "wd": "top-of-the-line"
+                    },
+                    {
+                      "wd": "topping",
+                      "wsls": [
+                        "chiefly British"
+                      ]
+                    },
+                    {
+                      "wd": "top-shelf"
+                    },
+                    {
+                      "wd": "unsurpassed"
+                    },
+                    {
+                      "wd": "wizard",
+                      "wsls": [
+                        "chiefly British"
+                      ]
+                    },
+                    {
+                      "wd": "wonderful"
+                    }
+                  ]
+                ],
+                "opp_list": [
+                  [
+                    {
+                      "wd": "atrocious"
+                    },
+                    {
+                      "wd": "awful"
+                    },
+                    {
+                      "wd": "execrable"
+                    },
+                    {
+                      "wd": "lousy"
+                    },
+                    {
+                      "wd": "pathetic"
+                    },
+                    {
+                      "wd": "poor"
+                    },
+                    {
+                      "wd": "rotten"
+                    },
+                    {
+                      "wd": "terrible"
+                    },
+                    {
+                      "wd": "vile"
+                    },
+                    {
+                      "wd": "wretched"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "bad"
+                    },
+                    {
+                      "wd": "inferior"
+                    },
+                    {
+                      "wd": "low-grade"
+                    },
+                    {
+                      "wd": "substandard"
+                    },
+                    {
+                      "wd": "unsatisfactory"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "mediocre"
+                    },
+                    {
+                      "wd": "middling"
+                    },
+                    {
+                      "wd": "second-class"
+                    },
+                    {
+                      "wd": "second-rate"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}high-octane{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "high-octane"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "straight"
+                    },
+                    {
+                      "wd": "undiluted"
+                    },
+                    {
+                      "wd": "unmixed"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "enriched"
+                    },
+                    {
+                      "wd": "fortified"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "heavy"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "big"
+                    },
+                    {
+                      "wd": "concentrated"
+                    },
+                    {
+                      "wd": "full"
+                    },
+                    {
+                      "wd": "full-bodied"
+                    },
+                    {
+                      "wd": "heady"
+                    },
+                    {
+                      "wd": "lusty"
+                    },
+                    {
+                      "wd": "muscular"
+                    },
+                    {
+                      "wd": "plush"
+                    },
+                    {
+                      "wd": "potent"
+                    },
+                    {
+                      "wd": "rich"
+                    },
+                    {
+                      "wd": "robust"
+                    },
+                    {
+                      "wd": "strong"
+                    }
+                  ]
+                ],
+                "opp_list": [
+                  [
+                    {
+                      "wd": "delicate"
+                    },
+                    {
+                      "wd": "light"
+                    },
+                    {
+                      "wd": "mild"
+                    },
+                    {
+                      "wd": "thin"
+                    },
+                    {
+                      "wd": "thinned"
+                    },
+                    {
+                      "wd": "weak"
+                    },
+                    {
+                      "wd": "weakened"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "dilute"
+                    },
+                    {
+                      "wd": "diluted"
+                    },
+                    {
+                      "wd": "watered-down"
+                    },
+                    {
+                      "wd": "watery"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in high-grade, premium",
+      "as in high-octane"
+    ]
+  },
+  {
+    "meta": {
+      "id": "acid test",
+      "uuid": "50647829-6b66-4f5d-99dc-c91379907a7b",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "acid test"
+      ],
+      "syns": [
+        [
+          "litmus",
+          "litmus test",
+          "cross",
+          "crucible",
+          "fire",
+          "gauntlet",
+          "ordeal",
+          "trial",
+          "baptism",
+          "initiation",
+          "challenge",
+          "complication",
+          "difficulty",
+          "grief",
+          "grievance",
+          "hardship",
+          "rigor"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "acid test"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}litmus test{/it}, {it}litmus{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "litmus"
+                    },
+                    {
+                      "wd": "litmus test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "cross"
+                    },
+                    {
+                      "wd": "crucible"
+                    },
+                    {
+                      "wd": "fire"
+                    },
+                    {
+                      "wd": "gauntlet",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "gantlet"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "ordeal"
+                    },
+                    {
+                      "wd": "trial"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "baptism"
+                    },
+                    {
+                      "wd": "initiation"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "challenge"
+                    },
+                    {
+                      "wd": "complication"
+                    },
+                    {
+                      "wd": "difficulty"
+                    },
+                    {
+                      "wd": "grief"
+                    },
+                    {
+                      "wd": "grievance"
+                    },
+                    {
+                      "wd": "hardship"
+                    },
+                    {
+                      "wd": "rigor"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in litmus test, litmus"
+    ]
+  },
+  {
+    "meta": {
+      "id": "aptitude test",
+      "uuid": "947c28d1-f29c-42bb-a930-387bec0fcf06",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "aptitude test"
+      ],
+      "syns": [
+        [
+          "intelligence test",
+          "placement test",
+          "exam",
+          "examination",
+          "quiz",
+          "test",
+          "pretest",
+          "retest",
+          "board(s)",
+          "midterm",
+          "midyear",
+          "catechism",
+          "audition",
+          "final",
+          "checkup",
+          "inspection",
+          "review",
+          "inquiry",
+          "interrogation",
+          "investigation",
+          "probe",
+          "research"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "aptitude test"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}intelligence test{/it}, {it}placement test{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "intelligence test"
+                    },
+                    {
+                      "wd": "placement test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "exam"
+                    },
+                    {
+                      "wd": "examination"
+                    },
+                    {
+                      "wd": "quiz"
+                    },
+                    {
+                      "wd": "test"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "pretest"
+                    },
+                    {
+                      "wd": "retest"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "board(s)"
+                    },
+                    {
+                      "wd": "midterm"
+                    },
+                    {
+                      "wd": "midyear"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "catechism"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "audition"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "final"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "checkup"
+                    },
+                    {
+                      "wd": "inspection"
+                    },
+                    {
+                      "wd": "review"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inquiry"
+                    },
+                    {
+                      "wd": "interrogation"
+                    },
+                    {
+                      "wd": "investigation"
+                    },
+                    {
+                      "wd": "probe"
+                    },
+                    {
+                      "wd": "research"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in intelligence test, placement test"
+    ]
+  }
+]
